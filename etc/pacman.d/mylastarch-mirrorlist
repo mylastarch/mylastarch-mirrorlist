@@ -1,2 +1,5 @@
-# United States San Francisco
-Server = https://arcolinuxiso.github.io/$repo/$arch
+# Mylastarch Mirror list
+Server = https://mylastarch.github.io/$repo/$arch
+
+# Gitlab
+Server = https://gitlab.com/mylastarch/$repo/-/raw/master/$arch
